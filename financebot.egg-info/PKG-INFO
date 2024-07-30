@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: financebot
+Version: 0.0.1
+Author: Pramod
+Author-email: pramodagond@gmail.com
+License-File: LICENSE
+Requires-Dist: langchain
+Requires-Dist: langchain-openai
+Requires-Dist: langchain-astradb
+Requires-Dist: datasets
+Requires-Dist: pypdf
+Requires-Dist: python-dotenv
+Requires-Dist: flask

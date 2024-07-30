@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+financebot.egg-info/PKG-INFO
+financebot.egg-info/SOURCES.txt
+financebot.egg-info/dependency_links.txt
+financebot.egg-info/requires.txt
+financebot.egg-info/top_level.txt
+tradingbot/__init__.py
+tradingbot/helper.py
+tradingbot/prompt.py
